@@ -109,3 +109,4 @@
 # */20 * * * * node /scripts/jd_family.js >> /scripts/logs/jd_family.log 2>&1
 # 闪购盲盒
 27 8 * * * node /scripts/jd_sgmh.js >> /scripts/logs/jd_sgmh.log 2>&1
+20 7 * * * node /scripts/jd_super_box.js >> /scripts/logs/jd_super_box.log 2>&1
